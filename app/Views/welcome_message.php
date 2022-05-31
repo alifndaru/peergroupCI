@@ -291,7 +291,7 @@
 <footer>
 	<div class="environment">
 
-		<p>Page rendered in {elapsed_time} seconds</p>
+		<p>anjjas</p>
 
 		<p>Environment: <?= ENVIRONMENT ?></p>
 
